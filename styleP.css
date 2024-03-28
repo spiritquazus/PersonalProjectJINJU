@@ -1,0 +1,65 @@
+
+
+#bgTop { 
+    background-image: url("./gallery/eiffel1.jpg");
+    height: 2500px;
+    max-height: 120vh !important;
+    display: block;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position-x: -49px;
+}
+
+#bgMid { 
+    background-image: url("./gallery/eiffel2.jpg");
+    height: 2500px;
+    max-height: 120vh !important;
+    display: block;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position-x: -49px;
+}
+
+#bgBot { 
+    background-image: url("./gallery/eiffel1.jpg");
+    height: 2500px;
+    max-height: 120vh !important;
+    display: block;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position-x: -49px;
+}
+
+.carousel-item {
+    height: 2500px;
+    max-height: 120vh !important;
+    background-color: black;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+#mainBand {
+    background-color: black;
+    opacity: 0.7;
+    position: relative;
+    width: 400vh;
+    height: 30vh;
+    margin-bottom: -30vh;
+    top: 45vh;
+    z-index: 0
+}
+
+#mainText {
+    position: relative;
+}
+
+h1 {
+    font-family: "IM Fell French Canon SC", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+h2 {
+        font-family: "Cedarville Cursive", cursive;
+        font-weight: 400;
+        font-style: normal;
+}
